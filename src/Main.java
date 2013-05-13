@@ -1,0 +1,9 @@
+public class Main {
+    public static void main(String[] parametro) {
+        System.out
+                .println("=============Aja Programa de MODIFICADO DOS prueba para GIT CON hub============");
+        ImprimeDos imprimeDos = new ImprimeDos();
+        imprimeDos.devuelve_mensajeDos(true);
+        // imprimeDos.devuelve_mensajeDos(false);
+    }
+}
