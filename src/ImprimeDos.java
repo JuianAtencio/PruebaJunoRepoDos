@@ -6,7 +6,7 @@ public class ImprimeDos {
             dato = false;
         } else {
             System.out
-                    .println("Aja 2 MNS programa de prueba ImprimeDos para repo en Git true");
+                    .println("Aja 2 MNS programaa de prueba ImprimeDos para repo en Git true");
             dato = true;
         }
         return dato;
